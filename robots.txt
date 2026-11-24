@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://science-research-library.github.io/sitemap.xml
